@@ -1,0 +1,5 @@
+lackeycfv	07-04-22
+plugins/lackeycfv/plugininfo.txt	https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/plugininfo.txt	522228
+plugins/lackeycfv/sets/carddata_dseries.txt	https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/carddata_dseries.txt	3175512
+CardGeneralURLs:
+https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/images/
