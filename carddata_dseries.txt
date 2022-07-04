@@ -1,0 +1,289 @@
+Name	Set/Number	ImageFile	Rarity	Series	Formats	Type	Nation	Clan	Race	Grade	Skill	Power	Critical	Shield	Trigger	Trigger Power
+Chakrabarthi Divine Dragon, Nirvana	D-SD01/001EN	dsd01_001en	SD	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Flame Dragon	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Blaze Maiden, Reiyu	D-SD01/002EN	dsd01_002en	SD	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Human	2	Intercept	10000	1	5000	-	-
+Blaze Maiden, Rino	D-SD01/003EN	dsd01_003en	SD	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Human	1	Boost	8000	1	5000	-	-
+Sunrise Egg	D-SD01/004EN	dsd01_004en	SD	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Flame Dragon	0	Boost	6000	1	5000	-	-
+Fire Slash Dragon, Inferno Sword	D-SD01/005EN	dsd01_005en	SD	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Flame Dragon	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Vairina	D-SD01/006EN	dsd01_006en	SD	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Talisman	2	Intercept	10000	1	5000	-	-
+Iron Ball Dragon, Ankybowler	D-SD01/007EN	dsd01_007en	SD	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Dinodragon	1	Boost	8000	1	5000	-	-
+Escort Stealth Dragon, Hayashi Kaze	D-SD01/008EN	dsd01_008en	SD	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Abyss Dragon	1	Boost	7000	1	0	-	-
+Trickstar	D-SD01/009EN	dsd01_009en	SD	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Talisman	0	Boost	5000	1	5000	-	-
+Spiritual King of Determination, Olbaria	D-SD01/010EN	dsd01_010en	SD	D Series	Standard, Premium	Trigger Unit	-	-	Elemental	0	Boost	5000	1	50000	Over	+100000000
+Blaze Maiden, Zonne	D-SD01/011EN	dsd01_011en	SD	D Series	Standard, Premium	Trigger Unit	Dragon Empire	-	Human	0	Boost	5000	1	15000	Critical	+10000
+Blaze Staff Monk, Cho Kuu Sha	D-SD01/012EN	dsd01_012en	SD	D Series	Standard, Premium	Trigger Unit	Dragon Empire	-	Human	0	Boost	5000	1	5000	Draw	+10000
+Blaze Fist Monk, Nikko	D-SD01/013EN	dsd01_013en	SD	D Series	Standard, Premium	Trigger Unit	Dragon Empire	-	Human	0	Boost	5000	1	15000	Front	+10000
+Blaze Maiden, Rona	D-SD01/014EN	dsd01_014en	SD	D Series	Standard, Premium	Trigger Unit	Dragon Empire	-	Human	0	Boost	5000	1	15000	Heal	+10000
+Sunburst Evolution	D-SD01/015EN	dsd01_015en	SD	D Series	Standard, Premium	Normal Order	Dragon Empire	-	-	2	-	-	-	-	-	-
+Diabolos, "Violence" Bruce	D-SD02/001EN	dsd02_001en	SD	D Series	Standard, Premium	Normal Unit	Dark States	-	Demon	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Diabolos, "Anger" Richard	D-SD02/002EN	dsd02_002en	SD	D Series	Standard, Premium	Normal Unit	Dark States	-	Demon	2	Intercept	10000	1	5000	-	-
+Diabolos, "Bad" Steve	D-SD02/003EN	dsd02_003en	SD	D Series	Standard, Premium	Normal Unit	Dark States	-	Demon	1	Boost	8000	1	5000	-	-
+Diabolos, "innocent" Matt	D-SD02/004EN	dsd02_004en	SD	D Series	Standard, Premium	Normal Unit	Dark States	-	Demon	0	Boost	6000	1	5000	-	-
+Time-fissuring Fist Colossus	D-SD02/005EN	dsd02_005en	SD	D Series	Standard, Premium	Normal Unit	Dark States	-	Gear Colossus	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Icicle Ein, Aizer	D-SD02/006EN	dsd02_006en	SD	D Series	Standard, Premium	Normal Unit	Dark States	-	Human	2	Intercept	10000	1	5000	-	-
+Steam Gunner, Brody	D-SD02/007EN	dsd02_007en	SD	D Series	Standard, Premium	Normal Unit	Dark States	-	Gearoid	2	Intercept	10000	1	5000	-	-
+Acrobat Presenter	D-SD02/008EN	dsd02_008en	SD	D Series	Standard, Premium	Normal Unit	Dark States	-	Demon	1	Boost	8000	1	5000	-	-
+Psychic Prima, Miranda	D-SD02/009EN	dsd02_009en	SD	D Series	Standard, Premium	Normal Unit	Dark States	-	Human	1	Boost	7000	1	0	-	-
+Spiritual King of Determination, Olbaria	D-SD02/010EN	dsd02_010en	SD	D Series	Standard, Premium	Trigger Unit	-	-	Elemental	0	Boost	5000	1	50000	Over	+100000000
+Diabolos Girls, Maimai	D-SD02/011EN	dsd02_011en	SD	D Series	Standard, Premium	Trigger Unit	Dark States	-	Succubus	0	Boost	5000	1	15000	Critical	+10000
+Diabolos Boys, Jake	D-SD02/012EN	dsd02_012en	SD	D Series	Standard, Premium	Trigger Unit	Dark States	-	Demon	0	Boost	5000	1	5000	Draw	+10000
+Diabolos Officer, Kilian	D-SD02/013EN	dsd02_013en	SD	D Series	Standard, Premium	Trigger Unit	Dark States	-	Demon	0	Boost	5000	1	15000	Front	+10000
+Diabolos Girls, Arianna	D-SD02/014EN	dsd02_014en	SD	D Series	Standard, Premium	Trigger Unit	Dark States	-	Succubus	0	Boost	5000	1	15000	Heal	+10000
+Brothers' Soul	D-SD02/015EN	dsd02_015en	SD	D Series	Standard, Premium	Normal Order	Dark States	-	-	1	-	-	-	-	-	-
+Apex Ruler, Bastion	D-SD03/001EN	dsd03_001en	SD	D Series	Standard, Premium	Normal Unit	Keter Sanctuary	-	Human	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Knight of Heavenly Spear, Rooks	D-SD03/002EN	dsd03_002en	SD	D Series	Standard, Premium	Normal Unit	Keter Sanctuary	-	Elf	2	Intercept	10000	1	5000	-	-
+Knight of Heavenly Sword, Fort	D-SD03/003EN	dsd03_003en	SD	D Series	Standard, Premium	Normal Unit	Keter Sanctuary	-	Human	1	Boost	8000	1	5000	-	-
+Knight of Heavenly Bow, Base	D-SD03/004EN	dsd03_004en	SD	D Series	Standard, Premium	Normal Unit	Keter Sanctuary	-	Angel	0	Boost	6000	1	5000	-	-
+Vehement Witch, Ramana	D-SD03/005EN	dsd03_005en	SD	D Series	Standard, Premium	Normal Unit	Keter Sanctuary	-	Elf	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Knight of Broadaxe, Rafluke	D-SD03/006EN	dsd03_006en	SD	D Series	Standard, Premium	Normal Unit	Keter Sanctuary	-	Human	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Shadow Bow Archer, Lisana	D-SD03/007EN	dsd03_007en	SD	D Series	Standard, Premium	Normal Unit	Keter Sanctuary	-	Human	1	Boost	8000	1	5000	-	-
+Platinum Wolf	D-SD03/008EN	dsd03_008en	SD	D Series	Standard, Premium	Normal Unit	Keter Sanctuary	-	High Beast	1	Boost	8000	1	5000	-	-
+Lifesaving Angel, Kurabiel	D-SD03/009EN	dsd03_009en	SD	D Series	Standard, Premium	Normal Unit	Keter Sanctuary	-	Angel	1	Boost	7000	1	0	-	-
+Spiritual King of Determination, Olbaria	D-SD03/010EN	dsd03_010en	SD	D Series	Standard, Premium	Trigger Unit	-	-	Elemental	0	Boost	5000	1	50000	Over	+100000000
+Knight of Heavenly Hammer, Gurgant	D-SD03/011EN	dsd03_011en	SD	D Series	Standard, Premium	Trigger Unit	Keter Sanctuary	-	Human	0	Boost	5000	1	15000	Critical	+10000
+Knight of Heavenly Pierce, Gallus	D-SD03/012EN	dsd03_012en	SD	D Series	Standard, Premium	Trigger Unit	Keter Sanctuary	-	Human	0	Boost	5000	1	5000	Draw	+10000
+Knight of Heavenly Rend, Lif	D-SD03/013EN	dsd03_013en	SD	D Series	Standard, Premium	Trigger Unit	Keter Sanctuary	-	Elf	0	Boost	5000	1	15000	Front	+10000
+Healer of Heavenly Staff, Arshes	D-SD03/014EN	dsd03_014en	SD	D Series	Standard, Premium	Trigger Unit	Keter Sanctuary	-	Elf	0	Boost	5000	1	15000	Heal	+10000
+The Hour of Holy Judgement Cometh	D-SD03/015EN	dsd03_015en	SD	D Series	Standard, Premium	Normal Order	Keter Sanctuary	-	-	3	-	-	-	-	-	-
+Sylvan Horned Beast King, Magnolia	D-SD04/001EN	dsd04_001en	SD	D Series	Standard, Premium	Normal Unit	Stoicheia	-	Wild Dragon	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Sylvan Horned Beast, Lattice	D-SD04/002EN	dsd04_002en	SD	D Series	Standard, Premium	Normal Unit	Stoicheia	-	High Beast	2	Intercept	10000	1	5000	-	-
+Sylvan Horned Beast, Charis	D-SD04/003EN	dsd04_003en	SD	D Series	Standard, Premium	Normal Unit	Stoicheia	-	High Beast	1	Boost	8000	1	5000	-	-
+Sylvan Horned Beast, Lotte	D-SD04/004EN	dsd04_004en	SD	D Series	Standard, Premium	Normal Unit	Stoicheia	-	High Beast	0	Boost	6000	1	5000	-	-
+Seizing Slash Mutant, Bruslash	D-SD04/005EN	dsd04_005en	SD	D Series	Standard, Premium	Normal Unit	Stoicheia	-	Insect	2	Intercept	10000	1	5000	-	-
+Sylvan Horned Beast, Dooger	D-SD04/006EN	dsd04_006en	SD	D Series	Standard, Premium	Normal Unit	Stoicheia	-	High Beast	2	Intercept	10000	1	5000	-	-
+Looting Petal Stomalia	D-SD04/007EN	dsd04_007en	SD	D Series	Standard, Premium	Normal Unit	Stoicheia	-	Bioroid	2	Intercept	10000	1	5000	-	-
+Knight of Friendship, Cyrus	D-SD04/008EN	dsd04_008en	SD	D Series	Standard, Premium	Normal Unit	Stoicheia	-	Bioroid	1	Boost	8000	1	5000	-	-
+Hopeful Maiden, Alejandra	D-SD04/009EN	dsd04_009en	SD	D Series	Standard, Premium	Normal Unit	Stoicheia	-	Bioroid	1	Boost	7000	1	0	-	-
+Spiritual King of Determination, Olbaria	D-SD04/010EN	dsd04_010en	SD	D Series	Standard, Premium	Trigger Unit	-	-	Elemental	0	Boost	5000	1	50000	Over	+100000000
+Sylvan Horned Beast, Jackalope	D-SD04/011EN	dsd04_011en	SD	D Series	Standard, Premium	Trigger Unit	Stoicheia	-	High Beast	0	Boost	5000	1	15000	Critical	+10000
+Sylvan Horned Beast, Polatter	D-SD04/012EN	dsd04_012en	SD	D Series	Standard, Premium	Trigger Unit	Stoicheia	-	High Beast	0	Boost	5000	1	5000	Draw	+10000
+Sylvan Horned Beast, Valin	D-SD04/013EN	dsd04_013en	SD	D Series	Standard, Premium	Trigger Unit	Stoicheia	-	High Beast	0	Boost	5000	1	15000	Front	+10000
+Sylvan Horned Beast, Zlatorog	D-SD04/014EN	dsd04_014en	SD	D Series	Standard, Premium	Trigger Unit	Stoicheia	-	High Beast	0	Boost	5000	1	15000	Heal	+10000
+Call to the Beasts	D-SD04/015EN	dsd04_015en	SD	D Series	Standard, Premium	Blitz Order	Stoicheia	-	-	2	-	-	-	-	-	-
+Aurora Battle Princess, Seraph Snow	D-SD05/001EN	dsd05_001en	SD	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Human	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Aurora Battle Princess, Risatt Pink	D-SD05/002EN	dsd05_002en	SD	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Human	2	Intercept	10000	1	5000	-	-
+Aurora Battle Princess, Kyanite Blue	D-SD05/003EN	dsd05_003en	SD	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Human	1	Boost	8000	1	5000	-	-
+Aurora Battle Princess, Ruby Red	D-SD05/004EN	dsd05_004en	SD	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Human	0	Boost	6000	1	5000	-	-
+Alert Guard Gunner	D-SD05/005EN	dsd05_005en	SD	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Battleroid	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Security Patroller	D-SD05/006EN	dsd05_006en	SD	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Battleroid	2	Intercept	10000	1	5000	-	-
+Jeweled Combination, Jewelion	D-SD05/007EN	dsd05_007en	SD	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Battleroid	2	Intercept	10000	1	5000	-	-
+Autonomic Caution	D-SD05/008EN	dsd05_008en	SD	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Workeroid	1	Boost	8000	1	5000	-	-
+Craggy Beast, Girgrand	D-SD05/009EN	dsd05_009en	SD	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Alien	1	Boost	7000	1	0	-	-
+Spiritual King of Determination, Olbaria	D-SD05/010EN	dsd05_010en	SD	D Series	Standard, Premium	Trigger Unit	-	-	Elemental	0	Boost	5000	1	50000	Over	+100000000
+Aurora Battle Princess, Lourus Yellow	D-SD05/011EN	dsd05_011en	SD	D Series	Standard, Premium	Trigger Unit	Brandt Gate	-	Human	0	Boost	5000	1	15000	Critical	+10000
+Aurora Battle Princess, Amy Orange	D-SD05/012EN	dsd05_012en	SD	D Series	Standard, Premium	Trigger Unit	Brandt Gate	-	Human	0	Boost	5000	1	5000	Draw	+10000
+Aurora Battle Princess, Fronte Rose	D-SD05/013EN	dsd05_013en	SD	D Series	Standard, Premium	Trigger Unit	Brandt Gate	-	Human	0	Boost	5000	1	15000	Front	+10000
+Aurora Battle Princess, Treuse Green	D-SD05/014EN	dsd05_014en	SD	D Series	Standard, Premium	Trigger Unit	Brandt Gate	-	Human	0	Boost	5000	1	15000	Heal	+10000
+Galaxy Central Prison, Galactolus	D-SD05/015EN	dsd05_015en	SD	D Series	Standard, Premium	Set Order/Prison	Brandt Gate	-	-	1	-	-	-	-	-	-
+Vairina Valiente	D-BT01/001EN	dbt01_001en	RRR	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Talisman	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Heavy Artillery of Dust Storm, Eugene	D-BT01/002EN	dbt01_002en	RRR	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Human	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Master of Gravity, Baromagnes	D-BT01/003EN	dbt01_003en	RRR	D Series	Standard, Premium	Normal Unit	Dark States	-	Human	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Diabolos Boys, Eden	D-BT01/004EN	dbt01_004en	RRR	D Series	Standard, Premium	Normal Unit	Dark States	-	Demon	2	Intercept	10000	1	5000	-	-
+Cardinal Deus, Orfist	D-BT01/005EN	dbt01_005en	RRR	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Cyber Golem	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Aurora Battle Princess, Agra Rouge	D-BT01/006EN	dbt01_006en	RRR	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Human	2	Intercept	10000	1	5000	-	-
+Grand Heavenly Sword, Alden	D-BT01/007EN	dbt01_007en	RRR	D Series	Standard, Premium	Normal Unit	Keter Sanctuary	-	Human	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Hexaorb Sorceress	D-BT01/008EN	dbt01_008en	RRR	D Series	Standard, Premium	Normal Unit	Keter Sanctuary	-	Human	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Mysterious Rain Spiritualist, Zorga	D-BT01/009EN	dbt01_009en	RRR	D Series	Standard, Premium	Normal Unit	Stoicheia	-	Ghost	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Sylvan Horned Beast, Giunosla	D-BT01/010EN	dbt01_010en	RRR	D Series	Standard, Premium	Normal Unit	Stoicheia	-	High Beast	2	Intercept	10000	1	5000	-	-
+Vairina Arcs	D-BT01/011EN	dbt01_011en	RR	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Talisman	2	Intercept	10000	1	5000	-	-
+Stealth Dragon, Tensha Stead	D-BT01/012EN	dbt01_012en	RR	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Abyss Dragon	1	Boost	8000	1	5000	-	-
+Dragon Deity King of Resurgence, Dragveda	D-BT01/013EN	dbt01_013en	ORR	D Series	Standard, Premium	Trigger Unit	Dragon Empire	-	Plasma Dragon	0	Boost	5000	1	50000	Over	+100000000
+Upward Acrobat, Marjorie	D-BT01/014EN	dbt01_014en	RR	D Series	Standard, Premium	Normal Unit	Dark States	-	Succubus	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Steam Battler, Gungnram	D-BT01/015EN	dbt01_015en	RR	D Series	Standard, Premium	Normal Unit	Dark States	-	Gearoid	1	Boost	8000	1	5000	-	-
+Hades Dragon Deity of Resentment, Gallmageheld	D-BT01/016EN	dbt01_016en	ORR	D Series	Standard, Premium	Trigger Unit	Dark States	-	Abyss Dragon	0	Boost	5000	1	50000	Over	+100000000
+Hyperspeed Robo, Chevalstud	D-BT01/017EN	dbt01_017en	RR	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Battleroid	1	Boost	8000	1	5000	-	-
+Detonation Mutant, Bobalmine	D-BT01/018EN	dbt01_018en	RR	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Alien	1	Boost	8000	1	5000	-	-
+Star Dragon Deity of Infinitude, Eldobreath	D-BT01/019EN	dbt01_019en	ORR	D Series	Standard, Premium	Trigger Unit	Brandt Gate	-	Space Dragon	0	Boost	5000	1	50000	Over	+100000000
+Knight of War Damage, Fosado	D-BT01/020EN	dbt01_020en	RR	D Series	Standard, Premium	Normal Unit	Keter Sanctuary	-	Elf	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Painkiller Angel	D-BT01/021EN	dbt01_021en	RR	D Series	Standard, Premium	Normal Unit	Keter Sanctuary	-	Angel	1	Boost	8000	1	5000	-	-
+Light Dragon Deity of Honors, Amartinoa	D-BT01/022EN	dbt01_022en	ORR	D Series	Standard, Premium	Trigger Unit	Keter Sanctuary	-	Cosmo Dragon	0	Boost	5000	1	50000	Over	+100000000
+Inheritance Maiden, Hendrina	D-BT01/023EN	dbt01_023en	RR	D Series	Standard, Premium	Normal Unit	Stoicheia	-	Bioroid	2	Intercept	10000	1	5000	-	-
+Spurring Maiden, Ellenia	D-BT01/024EN	dbt01_024en	RR	D Series	Standard, Premium	Normal Unit	Stoicheia	-	Bioroid	2	Intercept	10000	1	5000	-	-
+Source Dragon Deity of Blessings, Blessfavor	D-BT01/025EN	dbt01_025en	ORR	D Series	Standard, Premium	Trigger Unit	Stoicheia	-	Nature Dragon	0	Boost	5000	1	50000	Over	+100000000
+Penetrate Dragon, Tribash	D-BT01/026EN	dbt01_026en	R	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Dinodragon	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Cataclysmic Bullet of Dust Storm, Randor	D-BT01/027EN	dbt01_027en	R	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Human	2	Intercept	10000	1	5000	-	-
+Dragritter, Dabbaax	D-BT01/028EN	dbt01_028en	R	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Human	2	Intercept	10000	1	5000	-	-
+Stealth Rogue of Strife, Fudoumaru	D-BT01/029EN	dbt01_029en	R	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Demon	2	Intercept	10000	1	5000	-	-
+Dragritter, Alwalith	D-BT01/030EN	dbt01_030en	R	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Human	2	Intercept	10000	1	5000	-	-
+Twin Buckler Dragon	D-BT01/031EN	dbt01_031en	R	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Plasma Dragon	1	Boost	6000	1	0	-	-
+Phantasma Magician, Curtis	D-BT01/032EN	dbt01_032en	R	D Series	Standard, Premium	Normal Unit	Dark States	-	Elf	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Electro Spartan	D-BT01/033EN	dbt01_033en	R	D Series	Standard, Premium	Normal Unit	Dark States	-	Human	2	Intercept	10000	1	5000	-	-
+Shadow Leak Magician	D-BT01/034EN	dbt01_034en	R	D Series	Standard, Premium	Normal Unit	Dark States	-	Elf	2	Intercept	10000	1	5000	-	-
+Protobulb Dragon	D-BT01/035EN	dbt01_035en	R	D Series	Standard, Premium	Normal Unit	Dark States	-	Gear Dragon	1	Boost	8000	1	5000	-	-
+Recusal Hate Dragon	D-BT01/036EN	dbt01_036en	R	D Series	Standard, Premium	Normal Unit	Dark States	-	Abyss Dragon	1	Boost	6000	1	0	-	-
+Crawl, you "Insects"!	D-BT01/037EN	dbt01_037en	R	D Series	Standard, Premium	Normal Order	Dark States	-	-	3	-	-	-	-	-	-
+Granaroad Fairtigar	D-BT01/038EN	dbt01_038en	R	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Battleroid	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Cardinal Noid, Cubisia	D-BT01/039EN	dbt01_039en	R	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Cyberoid	2	Intercept	10000	1	5000	-	-
+Polar Cold Monster, Drumler	D-BT01/040EN	dbt01_040en	R	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Alien	2	Intercept	10000	1	5000	-	-
+Fighting Dragon, Goldog Dragon	D-BT01/041EN	dbt01_041en	R	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Space Dragon	2	Intercept	10000	1	5000	-	-
+Violate Dragon	D-BT01/042EN	dbt01_042en	R	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Space Dragon	1	Boost	6000	1	0	-	-
+Hollowing Moonlit Night	D-BT01/043EN	dbt01_043en	R	D Series	Standard, Premium	Set Order/World	Brandt Gate	-	-	2	-	-	-	-	-	-
+Dark Strain Dragon	D-BT01/044EN	dbt01_044en	R	D Series	Standard, Premium	Normal Unit	Keter Sanctuary	-	Abyss Dragon	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Big Snake Witch, Solaria	D-BT01/045EN	dbt01_045en	R	D Series	Standard, Premium	Normal Unit	Keter Sanctuary	-	Human	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Pentagleam Sorceress	D-BT01/046EN	dbt01_046en	R	D Series	Standard, Premium	Normal Unit	Keter Sanctuary	-	Human	2	Intercept	10000	1	5000	-	-
+Divine Sister, Tartine	D-BT01/047EN	dbt01_047en	R	D Series	Standard, Premium	Normal Unit	Keter Sanctuary	-	Elf	1	Boost	8000	1	5000	-	-
+Divine Sister, Faciata	D-BT01/048EN	dbt01_048en	R	D Series	Standard, Premium	Normal Unit	Keter Sanctuary	-	Elf	1	Boost	8000	1	5000	-	-
+Aegismare Dragon	D-BT01/049EN	dbt01_049en	R	D Series	Standard, Premium	Normal Unit	Keter Sanctuary	-	Cosmo Dragon	1	Boost	6000	1	0	-	-
+Black Tears Husk Dragon	D-BT01/050EN	dbt01_050en	R	D Series	Standard, Premium	Normal Unit	Stoicheia	-	Skeleton	2	Intercept	10000	1	5000	-	-
+Sylvan Horned Beast, Agleo	D-BT01/051EN	dbt01_051en	R	D Series	Standard, Premium	Normal Unit	Stoicheia	-	High Beast	2	Intercept	10000	1	5000	-	-
+Planar Prevent Dragon	D-BT01/052EN	dbt01_052en	R	D Series	Standard, Premium	Normal Unit	Stoicheia	-	Nature Dragon	1	Boost	6000	1	0	-	-
+Cursed Souls Squirming in Agony	D-BT01/053EN	dbt01_053en	R	D Series	Standard, Premium	Normal Order	Stoicheia	-	-	3	-	-	-	-	-	-
+Grief, Despair, and Rejection	D-BT01/054EN	dbt01_054en	R	D Series	Standard, Premium	Normal Order	Stoicheia	-	-	3	-	-	-	-	-	-
+Spiritual Body Condensation	D-BT01/055EN	dbt01_055en	R	D Series	Standard, Premium	Normal Order	Stoicheia	-	-	1	-	-	-	-	-	-
+Stealth Dragon, Hadou Shugen	D-BT01/056EN	dbt01_056en	C	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Abyss Dragon	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Stealth Rogue of Iron Blade, Oshikuni	D-BT01/057EN	dbt01_057en	C	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Demon	2	Intercept	10000	1	5000	-	-
+Dragritter, Zafar	D-BT01/058EN	dbt01_058en	C	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Human	2	Intercept	10000	1	5000	-	-
+Extremist Dragon, Velocihazard	D-BT01/059EN	dbt01_059en	C	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Dinodragon	1	Boost	8000	1	5000	-	-
+Gunning of Dust Storm, Nigel	D-BT01/060EN	dbt01_060en	C	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Human	1	Boost	8000	1	5000	-	-
+Stealth Fiend, Shigamanago	D-BT01/061EN	dbt01_061en	C	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Ghost	1	Boost	8000	1	5000	-	-
+Double Gun of Dust Storm, Bart	D-BT01/062EN	dbt01_062en	C	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Human	0	Boost	6000	1	5000	-	-
+Conduct Spark Dragon	D-BT01/063EN	dbt01_063en	C	D Series	Standard, Premium	Trigger Unit	Dragon Empire	-	Thunder Dragon	0	Boost	5000	1	15000	Critical	+10000
+Rushing Dragon, Steel Dilopho	D-BT01/064EN	dbt01_064en	C	D Series	Standard, Premium	Trigger Unit	Dragon Empire	-	Dinodragon	0	Boost	5000	1	5000	Draw	+10000
+Stealth Dragon, Jaengoku	D-BT01/065EN	dbt01_065en	C	D Series	Standard, Premium	Trigger Unit	Dragon Empire	-	Abyss Dragon	0	Boost	5000	1	15000	Front	+10000
+White Light Dragon, Parasolace	D-BT01/066EN	dbt01_066en	C	D Series	Standard, Premium	Trigger Unit	Dragon Empire	-	Dinodragon	0	Boost	5000	1	15000	Heal	+10000
+Sunlight Punishment	D-BT01/067EN	dbt01_067en	C	D Series	Standard, Premium	Normal Order	Dragon Empire	-	-	3	-	-	-	-	-	-
+Burn Bright, Pure Prayers	D-BT01/068EN	dbt01_068en	C	D Series	Standard, Premium	Blitz Order	Dragon Empire	-	-	2	-	-	-	-	-	-
+Selfish Engraver	D-BT01/069EN	dbt01_069en	C	D Series	Standard, Premium	Normal Unit	Dark States	-	Human	2	Intercept	10000	1	5000	-	-
+Soulful Wildmaster, Megan	D-BT01/070EN	dbt01_070en	C	D Series	Standard, Premium	Normal Unit	Dark States	-	Elf	2	Intercept	10000	1	5000	-	-
+Eminence Jaboberus	D-BT01/071EN	dbt01_071en	C	D Series	Standard, Premium	Normal Unit	Dark States	-	Chimera	1	Boost	8000	1	5000	-	-
+Steam Artist, Pithana	D-BT01/072EN	dbt01_072en	C	D Series	Standard, Premium	Normal Unit	Dark States	-	Gearoid	1	Boost	8000	1	5000	-	-
+Steam Detective, Uvaritt	D-BT01/073EN	dbt01_073en	C	D Series	Standard, Premium	Normal Unit	Dark States	-	Gearoid	1	Boost	8000	1	5000	-	-
+Direful Doll, Simone	D-BT01/074EN	dbt01_074en	C	D Series	Standard, Premium	Normal Unit	Dark States	-	Workeroid	1	Boost	8000	1	5000	-	-
+Deep Soniker	D-BT01/075EN	dbt01_075en	C	D Series	Standard, Premium	Normal Unit	Dark States	-	Human	1	Boost	8000	1	5000	-	-
+Uncanny Burning	D-BT01/076EN	dbt01_076en	C	D Series	Standard, Premium	Normal Unit	Dark States	-	Human	0	Boost	6000	1	5000	-	-
+Flinty Slasher	D-BT01/077EN	dbt01_077en	C	D Series	Standard, Premium	Trigger Unit	Dark States	-	Human	0	Boost	5000	1	15000	Critical	+10000
+Vital Leaver	D-BT01/078EN	dbt01_078en	C	D Series	Standard, Premium	Trigger Unit	Dark States	-	Human	0	Boost	5000	1	5000	Draw	+10000
+Huckle Hustle	D-BT01/079EN	dbt01_079en	C	D Series	Standard, Premium	Trigger Unit	Dark States	-	Human	0	Boost	5000	1	15000	Front	+10000
+Steam Scara, Mal-Nigal	D-BT01/080EN	dbt01_080en	C	D Series	Standard, Premium	Trigger Unit	Dark States	-	Gearoid	0	Boost	5000	1	15000	Heal	+10000
+Tartaros Beatscram	D-BT01/081EN	dbt01_081en	C	D Series	Standard, Premium	Blitz Order	Dark States	-	-	1	-	-	-	-	-	-
+Lightning Thief Monster, Jabattail	D-BT01/082EN	dbt01_082en	C	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Alien	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Grapple External	D-BT01/083EN	dbt01_083en	C	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Alien	2	Intercept	10000	1	5000	-	-
+Cardinal Noid, Routis	D-BT01/084EN	dbt01_084en	C	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Cyberoid	1	Boost	8000	1	5000	-	-
+Electrode Monster, Adapton	D-BT01/085EN	dbt01_085en	C	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Alien	1	Boost	8000	1	5000	-	-
+Userful Recharger	D-BT01/086EN	dbt01_086en	C	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Workeroid	1	Boost	8000	1	5000	-	-
+Cardinal Fang, Phovi	D-BT01/087EN	dbt01_087en	C	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Cyber Beast	0	Boost	6000	1	5000	-	-
+Cardinal Draco, Barbizonde	D-BT01/088EN	dbt01_088en	C	D Series	Standard, Premium	Trigger Unit	Brandt Gate	-	Cyber Dragon	0	Boost	5000	1	15000	Critical	+10000
+Cardinal Fang, Fulgrus	D-BT01/089EN	dbt01_089en	C	D Series	Standard, Premium	Trigger Unit	Brandt Gate	-	Cyber Beast	0	Boost	5000	1	5000	Draw	+10000
+Cardinal Draco, Aeblood	D-BT01/090EN	dbt01_090en	C	D Series	Standard, Premium	Trigger Unit	Brandt Gate	-	Cyber Dragon	0	Boost	5000	1	15000	Front	+10000
+Cardinal Prima, Nabilem	D-BT01/091EN	dbt01_091en	C	D Series	Standard, Premium	Trigger Unit	Brandt Gate	-	Cyber Fairy	0	Boost	5000	1	15000	Heal	+10000
+Causality Goes Crazy as I Will It	D-BT01/092EN	dbt01_092en	C	D Series	Standard, Premium	Normal Order	Brandt Gate	-	-	2	-	-	-	-	-	-
+Lightning Barrier, Emergency Deployment!	D-BT01/093EN	dbt01_093en	C	D Series	Standard, Premium	Blitz Order	Brandt Gate	-	-	1	-	-	-	-	-	-
+In the Darkness Nobody Knows	D-BT01/094EN	dbt01_094en	C	D Series	Standard, Premium	Set Order/World	Brandt Gate	-	-	3	-	-	-	-	-	-
+Actual Analyst, Kokabiel	D-BT01/095EN	dbt01_095en	C	D Series	Standard, Premium	Normal Unit	Keter Sanctuary	-	Angel	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Divine Sister, Lepisto	D-BT01/096EN	dbt01_096en	C	D Series	Standard, Premium	Normal Unit	Keter Sanctuary	-	Elf	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Remission Sword, Phanuel	D-BT01/097EN	dbt01_097en	C	D Series	Standard, Premium	Normal Unit	Keter Sanctuary	-	Angel	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Divine Sister, Pastelitos	D-BT01/098EN	dbt01_098en	C	D Series	Standard, Premium	Normal Unit	Keter Sanctuary	-	Elf	2	Intercept	10000	1	5000	-	-
+Tier Square Sorceress	D-BT01/099EN	dbt01_099en	C	D Series	Standard, Premium	Normal Unit	Keter Sanctuary	-	Human	1	Boost	8000	1	5000	-	-
+Knight of Heavenly Wind, Vachel	D-BT01/100EN	dbt01_100en	C	D Series	Standard, Premium	Normal Unit	Keter Sanctuary	-	Elf	1	Boost	8000	1	5000	-	-
+Tri Connect Sorceress	D-BT01/101EN	dbt01_101en	C	D Series	Standard, Premium	Normal Unit	Keter Sanctuary	-	Human	0	Boost	6000	1	5000	-	-
+White Fang Witch, Disma	D-BT01/102EN	dbt01_102en	C	D Series	Standard, Premium	Trigger Unit	Keter Sanctuary	-	Human	0	Boost	5000	1	15000	Critical	+10000
+Exalting Knight, Eafred	D-BT01/103EN	dbt01_103en	C	D Series	Standard, Premium	Trigger Unit	Keter Sanctuary	-	Human	0	Boost	5000	1	5000	Draw	+10000
+White Crow Sorcerer, Taxus	D-BT01/104EN	dbt01_104en	C	D Series	Standard, Premium	Trigger Unit	Keter Sanctuary	-	Human	0	Boost	5000	1	15000	Front	+10000
+Circuling Sorceress	D-BT01/105EN	dbt01_105en	C	D Series	Standard, Premium	Trigger Unit	Keter Sanctuary	-	Human	0	Boost	5000	1	15000	Heal	+10000
+Downswing of Sword of Judgement	D-BT01/106EN	dbt01_106en	C	D Series	Standard, Premium	Normal Order	Keter Sanctuary	-	-	3	-	-	-	-	-	-
+Hopeful Testode	D-BT01/107EN	dbt01_107en	C	D Series	Standard, Premium	Blitz Order	Keter Sanctuary	-	-	3	-	-	-	-	-	-
+Astute Noble, Edgar	D-BT01/108EN	dbt01_108en	C	D Series	Standard, Premium	Normal Unit	Stoicheia	-	Bioroid	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Hydrolic Ram Dragon	D-BT01/109EN	dbt01_109en	C	D Series	Standard, Premium	Normal Unit	Stoicheia	-	Tear Dragon	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Dark Pilgrimage	D-BT01/110EN	dbt01_110en	C	D Series	Standard, Premium	Normal Unit	Stoicheia	-	Ghost	1	Boost	8000	1	5000	-	-
+Rancor Chain	D-BT01/111EN	dbt01_111en	C	D Series	Standard, Premium	Normal Unit	Stoicheia	-	Ghost	1	Boost	8000	1	5000	-	-
+Conspiring Mutant, Admantis	D-BT01/112EN	dbt01_112en	C	D Series	Standard, Premium	Normal Unit	Stoicheia	-	Insect	1	Boost	8000	1	5000	-	-
+Dream Nibbling	D-BT01/113EN	dbt01_113en	C	D Series	Standard, Premium	Normal Unit	Stoicheia	-	Ghost	0	Boost	6000	1	5000	-	-
+Abyss Temptation	D-BT01/114EN	dbt01_114en	C	D Series	Standard, Premium	Trigger Unit	Stoicheia	-	Ghost	0	Boost	5000	1	15000	Critical	+10000
+Lost Child of Attachment	D-BT01/115EN	dbt01_115en	C	D Series	Standard, Premium	Trigger Unit	Stoicheia	-	Ghost	0	Boost	5000	1	5000	Draw	+10000
+Grudgeful Hatchet	D-BT01/116EN	dbt01_116en	C	D Series	Standard, Premium	Trigger Unit	Stoicheia	-	Zombie	0	Boost	5000	1	15000	Front	+10000
+Elegy Pixy	D-BT01/117EN	dbt01_117en	C	D Series	Standard, Premium	Trigger Unit	Stoicheia	-	Ghost	0	Boost	5000	1	15000	Heal	+10000
+Tearful Malice	D-BT01/118EN	dbt01_118en	C	D Series	Standard, Premium	Normal Order	Stoicheia	-	-	2	-	-	-	-	-	-
+Ghost Chase	D-BT01/119EN	dbt01_119en	C	D Series	Standard, Premium	Blitz Order	Stoicheia	-	-	2	-	-	-	-	-	-
+Sealed Path	D-BT01/120EN	dbt01_120en	C	D Series	Standard, Premium	Blitz Order	Stoicheia	-	-	2	-	-	-	-	-	-
+Trickstar	D-BT01/DSR01EN	dbt01_dsr01en	DSR	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Talisman	0	Boost	5000	1	5000	-	-
+Chakrabarthi Divine Dragon, Nirvana	D-BT01/DSR02EN	dbt01_dsr02en	DSR	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Flame Dragon	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Penetrate Dragon, Tribash	D-BT01/H01EN	dbt01_h01en	H	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Dinodragon	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Cataclysmic Bullet of Dust Storm, Randor	D-BT01/H02EN	dbt01_h02en	H	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Human	2	Intercept	10000	1	5000	-	-
+Twin Buckler Dragon	D-BT01/H03EN	dbt01_h03en	H	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Plasma Dragon	1	Boost	6000	1	0	-	-
+Gunning of Dust Storm, Nigel	D-BT01/H04EN	dbt01_h04en	H	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Human	1	Boost	8000	1	5000	-	-
+Stealth Fiend, Shigamanago	D-BT01/H05EN	dbt01_h05en	H	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Ghost	1	Boost	8000	1	5000	-	-
+Double Gun of Dust Storm, Bart	D-BT01/H06EN	dbt01_h06en	H	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Human	0	Boost	6000	1	5000	-	-
+Conduct Spark Dragon	D-BT01/H07EN	dbt01_h07en	H	D Series	Standard, Premium	Trigger Unit	Dragon Empire	-	Thunder Dragon	0	Boost	5000	1	15000	Critical	+10000
+Rushing Dragon, Steel Dilopho	D-BT01/H08EN	dbt01_h08en	H	D Series	Standard, Premium	Trigger Unit	Dragon Empire	-	Dinodragon	0	Boost	5000	1	5000	Draw	+10000
+Stealth Dragon, Jaengoku	D-BT01/H09EN	dbt01_h09en	H	D Series	Standard, Premium	Trigger Unit	Dragon Empire	-	Abyss Dragon	0	Boost	5000	1	15000	Front	+10000
+White Light Dragon, Parasolace	D-BT01/H10EN	dbt01_h10en	H	D Series	Standard, Premium	Trigger Unit	Dragon Empire	-	Dinodragon	0	Boost	5000	1	15000	Heal	+10000
+Electro Spartan	D-BT01/H11EN	dbt01_h11en	H	D Series	Standard, Premium	Normal Unit	Dark States	-	Human	2	Intercept	10000	1	5000	-	-
+Recusal Hate Dragon	D-BT01/H12EN	dbt01_h12en	H	D Series	Standard, Premium	Normal Unit	Dark States	-	Abyss Dragon	1	Boost	6000	1	0	-	-
+Crawl, you "Insects"!	D-BT01/H13EN	dbt01_h13en	H	D Series	Standard, Premium	Normal Order	Dark States	-	-	3	-	-	-	-	-	-
+Selfish Engraver	D-BT01/H14EN	dbt01_h14en	H	D Series	Standard, Premium	Normal Unit	Dark States	-	Human	2	Intercept	10000	1	5000	-	-
+Deep Soniker	D-BT01/H15EN	dbt01_h15en	H	D Series	Standard, Premium	Normal Unit	Dark States	-	Human	1	Boost	8000	1	5000	-	-
+Uncanny Burning	D-BT01/H16EN	dbt01_h16en	H	D Series	Standard, Premium	Normal Unit	Dark States	-	Human	0	Boost	6000	1	5000	-	-
+Flinty Slasher	D-BT01/H17EN	dbt01_h17en	H	D Series	Standard, Premium	Trigger Unit	Dark States	-	Human	0	Boost	5000	1	15000	Critical	+10000
+Vital Leaver	D-BT01/H18EN	dbt01_h18en	H	D Series	Standard, Premium	Trigger Unit	Dark States	-	Human	0	Boost	5000	1	5000	Draw	+10000
+Huckle Hustle	D-BT01/H19EN	dbt01_h19en	H	D Series	Standard, Premium	Trigger Unit	Dark States	-	Human	0	Boost	5000	1	15000	Front	+10000
+Steam Scara, Mal-Nigal	D-BT01/H20EN	dbt01_h20en	H	D Series	Standard, Premium	Trigger Unit	Dark States	-	Gearoid	0	Boost	5000	1	15000	Heal	+10000
+Cardinal Noid, Cubisia	D-BT01/H21EN	dbt01_h21en	H	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Cyberoid	2	Intercept	10000	1	5000	-	-
+Violate Dragon	D-BT01/H22EN	dbt01_h22en	H	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Space Dragon	1	Boost	6000	1	0	-	-
+Hollowing Moonlit Night	D-BT01/H23EN	dbt01_h23en	H	D Series	Standard, Premium	Set Order/World	Brandt Gate	-	-	2	-	-	-	-	-	-
+Cardinal Noid, Routis	D-BT01/H24EN	dbt01_h24en	H	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Cyberoid	1	Boost	8000	1	5000	-	-
+Cardinal Fang, Phovi	D-BT01/H25EN	dbt01_h25en	H	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Cyber Beast	0	Boost	6000	1	5000	-	-
+Cardinal Draco, Barbizonde	D-BT01/H26EN	dbt01_h26en	H	D Series	Standard, Premium	Trigger Unit	Brandt Gate	-	Cyber Dragon	0	Boost	5000	1	15000	Critical	+10000
+Cardinal Fang, Fulgrus	D-BT01/H27EN	dbt01_h27en	H	D Series	Standard, Premium	Trigger Unit	Brandt Gate	-	Cyber Beast	0	Boost	5000	1	5000	Draw	+10000
+Cardinal Draco, Aeblood	D-BT01/H28EN	dbt01_h28en	H	D Series	Standard, Premium	Trigger Unit	Brandt Gate	-	Cyber Dragon	0	Boost	5000	1	15000	Front	+10000
+Cardinal Prima, Nabilem	D-BT01/H29EN	dbt01_h29en	H	D Series	Standard, Premium	Trigger Unit	Brandt Gate	-	Cyber Fairy	0	Boost	5000	1	15000	Heal	+10000
+In the Darkness Nobody Knows	D-BT01/H30EN	dbt01_h30en	H	D Series	Standard, Premium	Set Order/World	Brandt Gate	-	-	3	-	-	-	-	-	-
+Dark Strain Dragon	D-BT01/H31EN	dbt01_h31en	H	D Series	Standard, Premium	Normal Unit	Keter Sanctuary	-	Abyss Dragon	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Pentagleam Sorceress	D-BT01/H32EN	dbt01_h32en	H	D Series	Standard, Premium	Normal Unit	Keter Sanctuary	-	Human	2	Intercept	10000	1	5000	-	-
+Divine Sister, Tartine	D-BT01/H33EN	dbt01_h33en	H	D Series	Standard, Premium	Normal Unit	Keter Sanctuary	-	Elf	1	Boost	8000	1	5000	-	-
+Aegismare Dragon	D-BT01/H34EN	dbt01_h34en	H	D Series	Standard, Premium	Normal Unit	Keter Sanctuary	-	Cosmo Dragon	1	Boost	6000	1	0	-	-
+Tier Square Sorceress	D-BT01/H35EN	dbt01_h35en	H	D Series	Standard, Premium	Normal Unit	Keter Sanctuary	-	Human	1	Boost	8000	1	5000	-	-
+Tri Connect Sorceress	D-BT01/H36EN	dbt01_h36en	H	D Series	Standard, Premium	Normal Unit	Keter Sanctuary	-	Human	0	Boost	6000	1	5000	-	-
+White Fang Witch, Disma	D-BT01/H37EN	dbt01_h37en	H	D Series	Standard, Premium	Trigger Unit	Keter Sanctuary	-	Human	0	Boost	5000	1	15000	Critical	+10000
+Exalting Knight, Eafred	D-BT01/H38EN	dbt01_h38en	H	D Series	Standard, Premium	Trigger Unit	Keter Sanctuary	-	Human	0	Boost	5000	1	5000	Draw	+10000
+White Crow Sorcerer, Taxus	D-BT01/H39EN	dbt01_h39en	H	D Series	Standard, Premium	Trigger Unit	Keter Sanctuary	-	Human	0	Boost	5000	1	15000	Front	+10000
+Circuling Sorceress	D-BT01/H40EN	dbt01_h40en	H	D Series	Standard, Premium	Trigger Unit	Keter Sanctuary	-	Human	0	Boost	5000	1	15000	Heal	+10000
+Black Tears Husk Dragon	D-BT01/H41EN	dbt01_h41en	H	D Series	Standard, Premium	Normal Unit	Stoicheia	-	Skeleton	2	Intercept	10000	1	5000	-	-
+Planar Prevent Dragon	D-BT01/H42EN	dbt01_h42en	H	D Series	Standard, Premium	Normal Unit	Stoicheia	-	Nature Dragon	1	Boost	6000	1	0	-	-
+Grief, Despair, and Rejection	D-BT01/H43EN	dbt01_h43en	H	D Series	Standard, Premium	Normal Order	Stoicheia	-	-	3	-	-	-	-	-	-
+Spiritual Body Condensation	D-BT01/H44EN	dbt01_h44en	H	D Series	Standard, Premium	Normal Order	Stoicheia	-	-	1	-	-	-	-	-	-
+Rancor Chain	D-BT01/H45EN	dbt01_h45en	H	D Series	Standard, Premium	Normal Unit	Stoicheia	-	Ghost	1	Boost	8000	1	5000	-	-
+Dream Nibbling	D-BT01/H46EN	dbt01_h46en	H	D Series	Standard, Premium	Normal Unit	Stoicheia	-	Ghost	0	Boost	6000	1	5000	-	-
+Abyss Temptation	D-BT01/H47EN	dbt01_h47en	H	D Series	Standard, Premium	Trigger Unit	Stoicheia	-	Ghost	0	Boost	5000	1	15000	Critical	+10000
+Lost Child of Attachment	D-BT01/H48EN	dbt01_h48en	H	D Series	Standard, Premium	Trigger Unit	Stoicheia	-	Ghost	0	Boost	5000	1	5000	Draw	+10000
+Grudgeful Hatchet	D-BT01/H49EN	dbt01_h49en	H	D Series	Standard, Premium	Trigger Unit	Stoicheia	-	Zombie	0	Boost	5000	1	15000	Front	+10000
+Elegy Pixy	D-BT01/H50EN	dbt01_h50en	H	D Series	Standard, Premium	Trigger Unit	Stoicheia	-	Ghost	0	Boost	5000	1	15000	Heal	+10000
+Vairina Valiente	D-BT01/SP01EN	dbt01_sp01en	SP	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Talisman	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Heavy Artillery of Dust Storm, Eugene	D-BT01/SP02EN	dbt01_sp02en	SP	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Human	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Master of Gravity, Baromagnes	D-BT01/SP03EN	dbt01_sp03en	SP	D Series	Standard, Premium	Normal Unit	Dark States	-	Human	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Diabolos Boys, Eden	D-BT01/SP04EN	dbt01_sp04en	SP	D Series	Standard, Premium	Normal Unit	Dark States	-	Demon	2	Intercept	10000	1	5000	-	-
+Cardinal Deus, Orfist	D-BT01/SP05EN	dbt01_sp05en	SP	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Cyber Golem	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Aurora Battle Princess, Agra Rouge	D-BT01/SP06EN	dbt01_sp06en	SP	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Human	2	Intercept	10000	1	5000	-	-
+Grand Heavenly Sword, Alden	D-BT01/SP07EN	dbt01_sp07en	SP	D Series	Standard, Premium	Normal Unit	Keter Sanctuary	-	Human	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Hexaorb Sorceress	D-BT01/SP08EN	dbt01_sp08en	SP	D Series	Standard, Premium	Normal Unit	Keter Sanctuary	-	Human	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Mysterious Rain Spiritualist, Zorga	D-BT01/SP09EN	dbt01_sp09en	SP	D Series	Standard, Premium	Normal Unit	Stoicheia	-	Ghost	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Sylvan Horned Beast, Giunosla	D-BT01/SP10EN	dbt01_sp10en	SP	D Series	Standard, Premium	Normal Unit	Stoicheia	-	High Beast	2	Intercept	10000	1	5000	-	-
+Vairina Arcs	D-BT01/SP11EN	dbt01_sp11en	SP	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Talisman	2	Intercept	10000	1	5000	-	-
+Stealth Dragon, Tensha Stead	D-BT01/SP12EN	dbt01_sp12en	SP	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Abyss Dragon	1	Boost	8000	1	5000	-	-
+Dragon Deity King of Resurgence, Dragveda	D-BT01/SP13EN	dbt01_sp13en	SP	D Series	Standard, Premium	Trigger Unit	Dragon Empire	-	Plasma Dragon	0	Boost	5000	1	50000	Over	+100000000
+Upward Acrobat, Marjorie	D-BT01/SP14EN	dbt01_sp14en	SP	D Series	Standard, Premium	Normal Unit	Dark States	-	Succubus	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Steam Battler, Gungnram	D-BT01/SP15EN	dbt01_sp15en	SP	D Series	Standard, Premium	Normal Unit	Dark States	-	Gearoid	1	Boost	8000	1	5000	-	-
+Hades Dragon Deity of Resentment, Gallmageheld	D-BT01/SP16EN	dbt01_sp16en	SP	D Series	Standard, Premium	Trigger Unit	Dark States	-	Abyss Dragon	0	Boost	5000	1	50000	Over	+100000000
+Hyperspeed Robo, Chevalstud	D-BT01/SP17EN	dbt01_sp17en	SP	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Battleroid	1	Boost	8000	1	5000	-	-
+Detonation Mutant, Bobalmine	D-BT01/SP18EN	dbt01_sp18en	SP	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Alien	1	Boost	8000	1	5000	-	-
+Star Dragon Deity of Infinitude, Eldobreath	D-BT01/SP19EN	dbt01_sp19en	SP	D Series	Standard, Premium	Trigger Unit	Brandt Gate	-	Space Dragon	0	Boost	5000	1	50000	Over	+100000000
+Knight of War Damage, Fosado	D-BT01/SP20EN	dbt01_sp20en	SP	D Series	Standard, Premium	Normal Unit	Keter Sanctuary	-	Elf	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Painkiller Angel	D-BT01/SP21EN	dbt01_sp21en	SP	D Series	Standard, Premium	Normal Unit	Keter Sanctuary	-	Angel	1	Boost	8000	1	5000	-	-
+Light Dragon Deity of Honors, Amartinoa	D-BT01/SP22EN	dbt01_sp22en	SP	D Series	Standard, Premium	Trigger Unit	Keter Sanctuary	-	Cosmo Dragon	0	Boost	5000	1	50000	Over	+100000000
+Inheritance Maiden, Hendrina	D-BT01/SP23EN	dbt01_sp23en	SP	D Series	Standard, Premium	Normal Unit	Stoicheia	-	Bioroid	2	Intercept	10000	1	5000	-	-
+Spurring Maiden, Ellenia	D-BT01/SP24EN	dbt01_sp24en	SP	D Series	Standard, Premium	Normal Unit	Stoicheia	-	Bioroid	2	Intercept	10000	1	5000	-	-
+Source Dragon Deity of Blessings, Blessfavor	D-BT01/SP25EN	dbt01_sp25en	SP	D Series	Standard, Premium	Trigger Unit	Stoicheia	-	Nature Dragon	0	Boost	5000	1	50000	Over	+100000000
+Twin Buckler Dragon	D-BT01/SP26EN	dbt01_sp26en	SP	D Series	Standard, Premium	Normal Unit	Dragon Empire	-	Plasma Dragon	1	Boost	6000	1	0	-	-
+Recusal Hate Dragon	D-BT01/SP27EN	dbt01_sp27en	SP	D Series	Standard, Premium	Normal Unit	Dark States	-	Abyss Dragon	1	Boost	6000	1	0	-	-
+Violate Dragon	D-BT01/SP28EN	dbt01_sp28en	SP	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Space Dragon	1	Boost	6000	1	0	-	-
+Aegismare Dragon	D-BT01/SP29EN	dbt01_sp29en	SP	D Series	Standard, Premium	Normal Unit	Keter Sanctuary	-	Cosmo Dragon	1	Boost	6000	1	0	-	-
+Planar Prevent Dragon	D-BT01/SP30EN	dbt01_sp30en	SP	D Series	Standard, Premium	Normal Unit	Stoicheia	-	Nature Dragon	1	Boost	6000	1	0	-	-
+Cardinal Noid, Cubisia	D-BT01/SP31EN	dbt01_sp31en	SP	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Cyberoid	2	Intercept	10000	1	5000	-	-
+Cardinal Noid, Routis	D-BT01/SP32EN	dbt01_sp32en	SP	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Cyberoid	1	Boost	8000	1	5000	-	-
+Cardinal Fang, Phovi	D-BT01/SP33EN	dbt01_sp33en	SP	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Cyber Beast	0	Boost	6000	1	5000	-	-
+Cardinal Draco, Barbizonde	D-BT01/SP34EN	dbt01_sp34en	SP	D Series	Standard, Premium	Trigger Unit	Brandt Gate	-	Cyber Dragon	0	Boost	5000	1	15000	Critical	+10000
+Cardinal Prima, Nabilem	D-BT01/SP35EN	dbt01_sp35en	SP	D Series	Standard, Premium	Trigger Unit	Brandt Gate	-	Cyber Fairy	0	Boost	5000	1	15000	Heal	+10000
+Black Tears Husk Dragon	D-BT01/SP36EN	dbt01_sp36en	SP	D Series	Standard, Premium	Normal Unit	Stoicheia	-	Skeleton	2	Intercept	10000	1	5000	-	-
+Rancor Chain	D-BT01/SP37EN	dbt01_sp37en	SP	D Series	Standard, Premium	Normal Unit	Stoicheia	-	Ghost	1	Boost	8000	1	5000	-	-
+Dream Nibbling	D-BT01/SP38EN	dbt01_sp38en	SP	D Series	Standard, Premium	Normal Unit	Stoicheia	-	Ghost	0	Boost	6000	1	5000	-	-
+Abyss Temptation	D-BT01/SP39EN	dbt01_sp39en	SP	D Series	Standard, Premium	Trigger Unit	Stoicheia	-	Ghost	0	Boost	5000	1	15000	Critical	+10000
+Elegy Pixy	D-BT01/SP40EN	dbt01_sp40en	SP	D Series	Standard, Premium	Trigger Unit	Stoicheia	-	Ghost	0	Boost	5000	1	15000	Heal	+10000
+Shadow Army	D-BT01/T01EN	dbt01_t01en	T	D Series	Standard, Premium	T0ken Unit	Brandt Gate	-	Shadow Army	1	Boost	15000	1	-	-	-
