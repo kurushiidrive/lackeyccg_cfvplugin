@@ -2,5 +2,7 @@ lackeycfv	07-05-22
 plugins/lackeycfv/plugininfo.txt	https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/plugininfo.txt	522228
 plugins/lackeycfv/sets/carddata_dseries.txt	https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/carddata_dseries.txt	3175512
 plugins/lackeycfv/version.txt	https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/version.txt	33539
-CardGeneralURLs:
-https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/images/
+plugins/lackeycfv/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/images/cardback.jpg	-84110
+plugins/lackeycfv/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/images/spawned.jpg	-16376
+CardImageURLs:
+dseries/d-bt01/dbt01_001en.jpg https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/images/dbt01_001en.jpg
