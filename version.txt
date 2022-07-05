@@ -1,6 +1,6 @@
 <version>
 
-<lastupdateYYMMDD>220706</lastupdateYYMMDD>
+<lastupdateYYMMDD>220705</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/updatelist.txt</updateurl>
 <message>overDress Set 1, overDress Start Decks 1-5</message>
