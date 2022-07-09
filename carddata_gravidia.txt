@@ -4,6 +4,7 @@ Gravidia Nordlinger	D-BT03/005EN	dbt03_005en	RRR	D Series	Standard, Premium	Norm
 Gravidia Rlyk	D-BT04/090EN	dbt04_090en	C	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Alien	2	Intercept	10000	1	5000	-	-
 Gravidia Barringer	D-BT03/038EN	dbt03_038en	R	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Alien	2	Intercept	10000	1	5000	-	-
 Gravidia Wells	D-BT03/H28EN	dbt03_h28en	H	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Alien	1	Boost	8000	1	5000	-	-
+Gravidia Laigle	D-BT03/086EN	dbt03_086en	C	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Alien	2	Intercept	10000	1	5000	-	-
 Extreme Battler, Arashid	D-VS02/040EN	dvs02_040en	RRR	V Series	V Premium, Premium	Normal Unit	Star Gate	Nova Grappler	Battleroid	1	Boost	8000	1	10000	-	-
 Grit Bengal	V-BT07/075EN	vbt07_075en	C	V Series	V Premium, Premium	Normal Unit	Star Gate	Nova Grappler	Warbeast	1	Boost	7000	1	10000	-	-
 Blaujunger	V-BT11/065EN	vbt11_065en	C	V Series	V Premium, Premium	Normal Unit	Star Gate	Nova Grappler	Battleroid	0	Boost	6000	1	10000	-	-
