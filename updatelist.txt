@@ -1,9 +1,9 @@
-lackeycfv	07-10-22
+lackeycfv	07-09-22
 plugins/lackeycfv/plugininfo.txt	https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/plugininfo.txt	522228
 plugins/lackeycfv/sets/carddata_dseries.txt	https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/carddata_dseries.txt	3175512
-plugins/lackeycfv/version.txt	https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/version.txt	33539
+plugins/lackeycfv/version.txt	https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/version.txt	31310
 plugins/lackeycfv/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/images/cardback.jpg	-84110
 plugins/lackeycfv/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/images/spawned.jpg	-16376
-plugins/lackeycfv/sets/carddata_gravidia.txt	https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/carddata_gravidia.txt	328204
+plugins/lackeycfv/sets/carddata_gravidia.txt	https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/carddata_gravidia.txt	337970
 CardGeneralURLs:
 https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/images/
