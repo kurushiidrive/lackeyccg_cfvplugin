@@ -1,8 +1,8 @@
 <version>
 
-<lastupdateYYMMDD>220709</lastupdateYYMMDD>
+<lastupdateYYMMDD>220710</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/updatelist.txt</updateurl>
-<message>Gravidia Nova/Gyze cards</message>
+<message>Gravidia Laigle</message>
 
 </version>
