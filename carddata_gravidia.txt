@@ -1,0 +1,31 @@
+Name	Set/Number	ImageFile	Rarity	Series	Formats	Type	Nation	Clan	Race	Grade	Skill	Power	Critical	Shield	Trigger	Trigger Power
+Gravidia Bacubirito	D-BT04/009EN	dbt04_009en	RRR	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Alien	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Gravidia Nordlinger	D-BT03/005EN	dbt03_005en	RRR	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Space Dragon	3	Twin Drive!!, Persona Ride	13000	1	-	-	-
+Gravidia Rlyk	D-BT04/090EN	dbt04_090en	C	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Alien	2	Intercept	10000	1	5000	-	-
+Gravidia Barringer	D-BT03/038EN	dbt03_038en	R	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Alien	2	Intercept	10000	1	5000	-	-
+Gravidia Wells	D-BT03/H28EN	dbt03_h28en	H	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Alien	1	Boost	8000	1	5000	-	-
+Extreme Battler, Arashid	D-VS02/040EN	dvs02_040en	RRR	V Series	V Premium, Premium	Normal Unit	Star Gate	Nova Grappler	Battleroid	1	Boost	8000	1	10000	-	-
+Grit Bengal	V-BT07/075EN	vbt07_075en	C	V Series	V Premium, Premium	Normal Unit	Star Gate	Nova Grappler	Warbeast	1	Boost	7000	1	10000	-	-
+Blaujunger	V-BT11/065EN	vbt11_065en	C	V Series	V Premium, Premium	Normal Unit	Star Gate	Nova Grappler	Battleroid	0	Boost	6000	1	10000	-	-
+Steel Fist Dragon, Frioul Dragon	D-VS02/039EN	dvs02_039en	RRR	V Series	V Premium, Premium	Trigger Unit	Star Gate	Nova Grappler	Space Dragon	3	Twin Drive!!	10000	1	15000	Heal	+10000
+Cardinal Draco, Enpyro	D-BT02/042EN	dbt02_042en	R	D Series	Standard, Premium	Trigger Unit	Brandt Gate	-	Cyber Dragon	0	Boost	4000	1	15000	Front	+10000
+Energy Girl	V-SS09/084EN	vss09_084en	RRR	-	Premium	Trigger Unit	Star Gate	Nova Grappler	Workeroid	0	Boost	4000	1	10000	Stand	+10000
+Twin Blader	V-SS08/042EN	vss08_042en	RRR	V Series	V Premium, Premium	Trigger Unit	Star Gate	Nova Grappler	Battleroid	0	Boost	5000	1	0	Draw	+10000
+Falling Hellhazard	D-BT04/H25EN	dbt04_h25en	H	D Series	Standard, Premium	Set Order/Meteorite	Brandt Gate	-	-	2	-	-	-	-	-	-
+Neatness Meteor Shower	D-PR/033EN	dpr_033en	PR	D Series	Standard, Premium	Set Order/Meteorite	Brandt Gate	-	-	1	-	-	-	-	-	-
+Fighting Emperor Dragon, Merciless Dragon	D-PS01/012EN	dps01_012en	RRR	-	Premium	G Unit	Star Gate	Nova Grappler	Space Dragon	4	Triple Drive!!!	15000	1	-	-	-
+Meteokaiser, Stiffneid	D-PS01/036EN	dps01_036en	RR	-	Premium	G Unit/G-Guardian	Star Gate	Nova Grappler	Battleroid	4	-	-	-	15000	-	-
+Favorite Champ, Victor	V-SS09/078EN	vss09_078en	RRR	-	Premium	G Unit	Star Gate	Nova Grappler	Battleroid	4	Triple Drive!!!	15000	1	-	-	-
+Meteokaiser, Dogantitan	V-SS09/079EN	vss09_079en	RRR	-	Premium	G Unit/G-Guardian	Star Gate	Nova Grappler	Battleroid	4	-	-	-	15000	-	-
+Meteokaiser, Gundreed	V-SS09/080EN	vss09_080en	RRR	-	Premium	G Unit/G-Guardian	Star Gate	Nova Grappler	Battleroid	4	-	-	-	15000	-	-
+Progenitor Dragon of Horizon Limit, Origorem	V-SS01/003EN	vss01_003en	GR	-	Premium	G Unit	Star Gate	-	Space Dragon	4	Triple Drive!!!	15000	1	-	-	-
+Zeroth Dragon of Destroy Star, Stark	G-RC02/004EN	grc02_004en	ZR	-	Premium	G Unit	Star Gate	-	Zeroth Dragon	4	Triple Drive!!!	25000	1	-	-	-
+Meteokaiser, Unior	G-RC02/043EN	grc02_043en	RR	-	Premium	G Unit/G-Guardian	Star Gate	Nova Grappler	Battleroid	4	-	-	-	15000	-	-
+Gravidia Stanner	D-BT03/018EN	dbt03_018en	RR	D Series	Standard, Premium	Normal Unit	Brandt Gate	-	Alien	2	Intercept	10000	1	5000	-	-
+Neon Gyze	G-RC02/001EN	grc02_001ben	ZR	-	Premium	Normal Unit	Cray Elemental	Cray Elemental	Gyze	0	Boost	5000	1	10000	-	-
+Ameliorate Connector	D-BT04/046EN	dbt04_046en	R	D Series	Standard, Premium	Trigger Unit	Brandt Gate	-	Workeroid	0	Boost	4000	1	5000	Draw	+10000
+Dragon Deity of Destruction, Gyze	G-RC02/001EN	grc02_001aen	ZR	-	Premium	G Unit	Cray Elemental	Cray Elemental	Gyze	4	Triple Drive!!!	30000	1	-	-	-
+Zeroth Dragon of Distant Sea, Megiddo	PR/0469EN	pr_0469en	PR	-	Premium	G Unit	Magallanica	-	Zeroth Dragon	4	Triple Drive!!!	25000	1	-	-	-
+Zeroth Dragon of End of the World, Dust	PR/0468EN	pr_0468en	PR	-	Premium	G Unit	Dark Zone	-	Zeroth Dragon	4	Triple Drive!!!	25000	1	-	-	-
+Zeroth Dragon of Death Garden, Zoa	PR/0470EN	pr_0470en	PR	-	Premium	G Unit	Zoo	-	Zeroth Dragon	4	Triple Drive!!!	25000	1	-	-	-
+Zeroth Dragon of Zenith Peak, Ultima	G-BT14/002EN	gbt14_002en	ZR	-	Premium	G Unit	United Sanctuary	-	Zeroth Dragon	4	Triple Drive!!!	25000	1	-	-	-
