@@ -1,0 +1,34 @@
+Name	Set/Number	ImageFile	Rarity	Series	Formats	Type	Nation	Clan	Race	Grade	Skill	Power	Critical	Shield	Trigger	Trigger Power
+Silver Thorn Dragon Queen, Luquier "Яeverse"	D-VS03/057EN	dvs03_057en	RRR	V Series	V Premium, Premium	Normal Unit	Dark Zone	Pale Moon	Elf	3	Twin Drive!!, Accel	12000	1	-	-	-
+Silver Thorn Beast Tamer, Doriane	D-VS03/061EN	dvs03_061en	RRR	V Series	V Premium, Premium	Normal Unit	Dark Zone	Pale Moon	Elf	3	Twin Drive!!, Accel	12000	1	-	-	-
+Silver Thorn Dragon Empress, Venus Luquier	V-BT09/005EN	vbt09_005en	VR	V Series	V Premium, Premium	Normal Unit	Dark Zone	Pale Moon	Elf	3	Twin Drive!!, Accel	12000	1	-	-	-
+Silver Thorn Beast Tamer, Maricica	D-VS03/058EN	dvs03_058en	RRR	V Series	V Premium, Premium	Normal Unit	Dark Zone	Pale Moon	Elf	2	Intercept	9000	1	5000	-	-
+Silver Thorn Diva, Selvia	V-BT09/012EN	vbt09_012en	RRR	V Series	V Premium, Premium	Normal Unit	Dark Zone	Pale Moon	Warbeast	2	Intercept	9000	1	5000	-	-
+Silver Thorn Marionette, Lilian	V-BT06/012EN	vbt06_012en	RRR	V Series	V Premium, Premium	Normal Unit	Dark Zone	Pale Moon	Workeroid	2	Intercept	9000	1	5000	-	-
+Silver Thorn, Upright Lion	BT15/078EN	bt15_078en	C	-	Premium	Normal Unit	Dark Zone	Pale Moon	Chimera	2	Intercept	9000	1	5000	-	-
+Silver Thorn Beast Tamer, Ana	D-VS03/059EN	dvs03_059en	RRR	V Series	V Premium, Premium	Normal Unit	Dark Zone	Pale Moon	Elf	1	Boost	8000	1	10000	-	-
+Silver Thorn Assistant, Irina	V-BT06/013EN	vbt06_013en	RRR	V Series	V Premium, Premium	Normal Unit	Dark Zone	Pale Moon	Warbeast	1	Boost	8000	1	10000	-	-
+Silver Thorn Clown, Cernay	G-CHB03/036EN	gchb03_036en	C	-	Premium	Normal Unit	Dark Zone	Pale Moon	Succubus	1	Boost	7000	1	5000	-	-
+Silver Thorn Assistant, Zelma	BT15/036EN	bt15_036en	R	-	Premium	Normal Unit	Dark Zone	Pale Moon	Warbeast	1	Boost	7000	1	5000	-	-
+Silver Thorn Beast Tamer, Lolotte	G-CHB03/039EN	gchb03_039en	C	-	Premium	Normal Unit	Dark Zone	Pale Moon	Warbeast	0	Boost	5000	1	10000	-	-
+Silver Thorn Beast Tamer, Emile	BT15/081EN	bt15_081en	C	-	Premium	Normal Unit	Dark Zone	Pale Moon	Elf	0	Boost	5000	1	10000	-	-
+Hades Hypnotist	V-SS08/063EN	vss08_063en	RRR	V Series	V Premium, Premium	Trigger Unit	Dark Zone	Pale Moon	Demon	0	Boost	5000	1	0	Draw	+10000
+Silver Thorn, Barking Dragon	V-BT06/081EN	vbt06_081en	C	V Series	V Premium, Premium	Trigger Unit	Dark Zone	Pale Moon	Dinodragon	0	Boost	5000	1	15000	Critical	+10000
+Candy Clown	V-BT06/084EN	vbt06_084en	C	V Series	V Premium, Premium	Trigger Unit	Dark Zone	Pale Moon	Demon	0	Boost	5000	1	20000	Heal	+10000
+Silver Thorn Assistant, Dixie	G-BT06/082EN	gbt06_082en	C	-	Premium	Trigger Unit	Dark Zone	Pale Moon	Warbeast	0	Boost	4000	1	10000	Critical	+5000
+Spiritual King of Determination, Olbaria	D-PR/022EN	dpr_022en	PR	D Series	Standard, Premium	Trigger Unit	-	-	Elemental	0	Boost	5000	1	50000	Over	+100000000
+Masquerade Master, Harri	V-SS09/113EN	vss09_113en	RRR	-	Premium	G Unit	Dark Zone	Pale Moon	Elf	4	Triple Drive!!!	15000	1	-	-	-
+Midair Megatrick, Yvette	V-SS05/018EN	vss05_018en	RRR	-	Premium	G Unit	Dark Zone	Pale Moon	Succubus	4	Triple Drive!!!	15000	1	-	-	-
+Fancy Megatrick, Darklord Princess	V-SS01/023EN	vss01_023en	RRR	-	Premium	G Unit	Dark Zone	Pale Moon	Human	4	Triple Drive!!!	15000	1	-	-	-
+Kinesis Megatrick, Coulthard	G-RC02/048EN	grc02_048en	RR	-	Premium	G Unit/G-Guardian	Dark Zone	Pale Moon	Human	4	-	-	-	15000	-	-
+Parallel Megatrick, Fairfield	G-CHB03/001EN	gchb03_001en	GR	-	Premium	G Unit	Dark Zone	Pale Moon	Human	4	Triple Drive!!!	15000	1	-	-	-
+Silver Thorn Dragon Master, Venus Luquier	G-CHB03/003EN	gchb03_003en	RRR	-	Premium	G Unit	Dark Zone	Pale Moon	Elf	4	Triple Drive!!!	15000	1	-	-	-
+Jester Demonic Dragon, Wandering Dragon	G-CHB03/016EN	gchb03_016en	R	-	Premium	G Unit/G-Guardian	Dark Zone	Pale Moon	Abyss Dragon	4	-	-	-	15000	-	-
+Chainsaw Megatrick, Furnival	G-FC03/041EN	gfc03_041en	RR	-	Premium	G Unit/G-Guardian	Dark Zone	Pale Moon	Human	4	-	-	-	15000	-	-
+Silver Thorn Dragon Master, Mystique Luquier	G-FC01/019EN	gfc01_019en	RRR	-	Premium	G Unit	Dark Zone	Pale Moon	Elf	4	Triple Drive!!!	15000	1	-	-	-
+Silver Thorn Dragon Tamer, Luquier	G-CHB03/008EN	gchb03_008en	RR	-	Premium	Normal Unit	Dark Zone	Pale Moon	Elf	3	Twin Drive!!	11000	1	-	-	-
+Desire Devil, Gouman	D-BT03/078EN	dbt03_078en	C	D Series	Standard, Premium	Normal Unit	Dark States	-	Demon	1	Boost	8000	1	5000	-	-
+Cat Knight in High Boots	G-BT06/036EN	gbt06_036en	R	-	Premium	Normal Unit	Dark Zone	Pale Moon	High Beast	0	Boost	5000	1	10000	-	-
+Prankster Girl of Mirrorland	V-SS09/119EN	vss09_119en	RRR	-	Premium	Trigger Unit	Dark Zone	Pale Moon	Human	0	Boost	4000	1	10000	Stand	+5000
+Jester Demonic Beast, Flection Chimera	D-PS01/041EN	dps01_041en	RR	-	Premium	G Unit/G-Guardian	Dark Zone	Pale Moon	Chimera	4	-	-	-	15000	-	-
+Trenchant Megatrick, Leontina	D-PS01/017EN	dps01_017en	RRR	-	Premium	G Unit	Dark Zone	Pale Moon	Human	4	Triple Drive!!!	15000	1	-	-	-
