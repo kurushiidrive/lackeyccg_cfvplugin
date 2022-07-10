@@ -24,7 +24,6 @@
 // by default they're loaded to the gamezone of the same name
 <deckzone>
 	<label>Deck</label>
-	<gamezonetoloadto>Deck Zone</gamezonetoloadto>
 	<shuffle>yes</shuffle>
 </deckzone>
 
@@ -55,19 +54,13 @@
 </gamezone>
 
 <gamezone>
-	<label>Deck Zone</label>
+	<label>Deck</label>
 	<visibletoowner>no</visibletoowner>
 	<visibletoothers>no</visibletoothers>
 </gamezone>
 
 <gamezone>
 	<label>Drop Zone</label>
-	<visibletoowner>yes</visibletoowner>
-	<visibletoothers>yes</visibletoothers>
-</gamezone>
-
-<gamezone>
-	<label>Damage Zone</label>
 	<visibletoowner>yes</visibletoowner>
 	<visibletoothers>yes</visibletoothers>
 </gamezone>
@@ -159,7 +152,7 @@
 	<label>Mill</label>
 	<kind>TRANSFERCARD</kind>
 	<sourceowner>performer</sourceowner>
-	<sourcegamezone>Deck Zone</sourcegamezone>
+	<sourcegamezone>Deck</sourcegamezone>
 	<sourceposition>top</sourceposition>
 	<destinationowner>performer</destinationowner>
 	<destinationgamezone>Drop Zone</destinationgamezone>
@@ -170,7 +163,7 @@
 	<label>Soul Charge</label>
 	<kind>TRANSFERCARD</kind>
 	<sourceowner>performer</sourceowner>
-	<sourcegamezone>Deck Zone</sourcegamezone>
+	<sourcegamezone>Deck</sourcegamezone>
 	<sourceposition>top</sourceposition>
 	<destinationowner>performer</destinationowner>
 	<destinationgamezone>Soul</destinationgamezone>
