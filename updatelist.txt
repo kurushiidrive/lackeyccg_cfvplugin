@@ -5,6 +5,6 @@ plugins/lackeycfv/version.txt	https://raw.githubusercontent.com/kurushiidrive/la
 plugins/lackeycfv/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/images/cardback.jpg	-84110
 plugins/lackeycfv/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/images/spawned.jpg	-16376
 plugins/lackeycfv/sets/carddata_gravidia.txt	https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/carddata_gravidia.txt	337970
-plugins/lackeycfv/sets/carddata_silverthorn.txt	https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/carddata_silverthorn.txt	368548
+plugins/lackeycfv/sets/carddata_silverthorn.txt	https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/carddata_silverthorn.txt	368759
 CardGeneralURLs:
 https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/images/

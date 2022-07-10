@@ -1,5 +1,5 @@
 Name	Set/Number	ImageFile	Rarity	Series	Formats	Type	Nation	Clan	Race	Grade	Skill	Power	Critical	Shield	Trigger	Trigger Power
-Silver Thorn Dragon Queen, Luquier "Яeverse"	D-VS03/057EN	dvs03_057en	RRR	V Series	V Premium, Premium	Normal Unit	Dark Zone	Pale Moon	Elf	3	Twin Drive!!, Accel	12000	1	-	-	-
+Silver Thorn Dragon Queen, Luquier "Reverse"	D-VS03/057EN	dvs03_057en	RRR	V Series	V Premium, Premium	Normal Unit	Dark Zone	Pale Moon	Elf	3	Twin Drive!!, Accel	12000	1	-	-	-
 Silver Thorn Beast Tamer, Doriane	D-VS03/061EN	dvs03_061en	RRR	V Series	V Premium, Premium	Normal Unit	Dark Zone	Pale Moon	Elf	3	Twin Drive!!, Accel	12000	1	-	-	-
 Silver Thorn Dragon Empress, Venus Luquier	V-BT09/005EN	vbt09_005en	VR	V Series	V Premium, Premium	Normal Unit	Dark Zone	Pale Moon	Elf	3	Twin Drive!!, Accel	12000	1	-	-	-
 Silver Thorn Beast Tamer, Maricica	D-VS03/058EN	dvs03_058en	RRR	V Series	V Premium, Premium	Normal Unit	Dark Zone	Pale Moon	Elf	2	Intercept	9000	1	5000	-	-
