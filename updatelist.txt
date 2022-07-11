@@ -1,11 +1,12 @@
 lackeycfv	07-10-22
 plugins/lackeycfv/plugininfo.txt	https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/plugininfo.txt	504373
 plugins/lackeycfv/sets/carddata_dseries.txt	https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/carddata_dseries.txt	15832886
-plugins/lackeycfv/version.txt	https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/version.txt	31027
+plugins/lackeycfv/version.txt	https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/version.txt	31652
 plugins/lackeycfv/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/images/cardback.jpg	-84110
 plugins/lackeycfv/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/images/spawned.jpg	-16376
 plugins/lackeycfv/sets/carddata_gravidia.txt	https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/carddata_gravidia.txt	1700921
 plugins/lackeycfv/sets/carddata_silverthorn.txt	https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/carddata_silverthorn.txt	1819648
 plugins/lackeycfv/sets/carddata_luard.txt	https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/carddata_luard.txt	1823893
+plugins/lackeycfv/sets/carddata_angelfeather.txt	https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/carddata_angelfeather.txt	2772555
 CardGeneralURLs:
 https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/images/
