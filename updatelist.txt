@@ -7,6 +7,6 @@ plugins/lackeycfv/sets/setimages/general/spawned.jpg	https://raw.githubuserconte
 plugins/lackeycfv/sets/carddata_gravidia.txt	https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/carddata_gravidia.txt	1700921
 plugins/lackeycfv/sets/carddata_silverthorn.txt	https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/carddata_silverthorn.txt	1819648
 plugins/lackeycfv/sets/carddata_luard.txt	https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/carddata_luard.txt	1823893
-plugins/lackeycfv/sets/carddata_angelfeather.txt	https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/carddata_angelfeather.txt	3050386
+plugins/lackeycfv/sets/carddata_angelfeather.txt	https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/carddata_angelfeather.txt	3104855
 CardGeneralURLs:
 https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/images/
