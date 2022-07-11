@@ -3,6 +3,6 @@
 <lastupdateYYMMDD>220710</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/updatelist.txt</updateurl>
-<message>Luard</message>
+<message>Card Scripts</message>
 
 </version>
