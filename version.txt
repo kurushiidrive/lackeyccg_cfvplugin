@@ -3,6 +3,6 @@
 <lastupdateYYMMDD>220712</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/updatelist.txt</updateurl>
-<message>Some Imaginary Gifts</message>
+<message>Nightmare Doll</message>
 
 </version>
