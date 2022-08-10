@@ -1,8 +1,8 @@
 <version>
 
-<lastupdateYYMMDD>220712</lastupdateYYMMDD>
+<lastupdateYYMMDD>220810</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/updatelist.txt</updateurl>
-<message>Nightmare Doll</message>
+<message>More Shadow Paladin cards from V</message>
 
 </version>
