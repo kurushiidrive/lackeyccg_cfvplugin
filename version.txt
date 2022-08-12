@@ -1,8 +1,8 @@
 <version>
 
-<lastupdateYYMMDD>220810</lastupdateYYMMDD>
+<lastupdateYYMMDD>220812</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/kurushiidrive/lackeyccg_cfvplugin/master/updatelist.txt</updateurl>
-<message>DI and Shirayuki</message>
+<message>Greedon (PM) and friends</message>
 
 </version>
